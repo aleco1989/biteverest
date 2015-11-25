@@ -1,0 +1,1 @@
+BIT Everest is a free open source library that supports some popular mobile digital TV demultiplexer (Demux). It is expected to support Japan 1-Seg (1seg, oneseg), Korean and China T-DMB (TDMB), CMMB and Europe DVB-H (DVBH).
